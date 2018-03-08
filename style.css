@@ -1,0 +1,26 @@
+body {
+  margin: 0 auto;
+  text-align: center;
+  font-family: Arial, sans-serif;;
+  font-size: 18px;
+  padding: 0 40px;
+}
+form{
+  margin-top: 20px;
+}
+input {
+  display: block;
+  width: 50%;
+  margin: 20px auto;
+  height: 20px;
+}
+
+a {
+  background-color: #eee;
+  border-radius: 3px;
+  display: block;
+  padding: 15px;
+  width: 50%;
+  text-align: center;
+  margin: 20px auto;
+}
